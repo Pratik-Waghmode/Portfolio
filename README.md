@@ -4,7 +4,7 @@ Welcome to my portfolio! I am Pratik Waghmode, an aspiring data scientist and de
 
 [![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratik-waghmode/)
 
-#### 🎨 Programming Language Stack
+## 🎨 **Programming Language Stack**
 <p align="left"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/a50fa57465e82a1147fa512fb3d64cc5902df578/icons/Python-Dark.svg" alt="python" title="python" width="60" height="60"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/a50fa57465e82a1147fa512fb3d64cc5902df578/icons/MySQL-Dark.svg" alt="SQL" title="SQL" width="60" height="60"/>
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/a50fa57465e82a1147fa512fb3d64cc5902df578/icons/TensorFlow-Dark.svg" alt="Tensorflow" title="Tensor Flow" width="60" height="60"/>
  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/a50fa57465e82a1147fa512fb3d64cc5902df578/icons/PyTorch-Dark.svg" alt="PyTorch" title="PyTorch" width="60" height="60"/>
