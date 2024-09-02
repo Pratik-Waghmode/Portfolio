@@ -1,7 +1,8 @@
-# Shantanu Madiwale's Data Science & Machine Learning Portfolio
+# Pratik Waghmode's Data Science, Machine Learning & Game Development Portfolio
 
-Welcome to my portfolio! I am Shantanu Madiwale, an aspiring data scientist and developer dedicated to solving the world's problems through data-driven insights. Here you can find details about my projects, the technologies I've used, and the skills I've developed.
+Welcome to my portfolio! I am Pratik Waghmode, an aspiring data scientist and developer dedicated to solving the world's problems through data-driven insights. Here you can find details about my projects, the technologies I've used, and the skills I've developed.
 
+[![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratik-waghmode/)
 ## Projects
 
 ### [Breast Cancer Classification with Machine Learning](https://github.com/your-username/Breast-Cancer-Classification-Machine-Learning)
