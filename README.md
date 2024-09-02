@@ -4,7 +4,7 @@ Welcome to my portfolio! I am Pratik Waghmode, an aspiring data scientist and de
 
 [![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratik-waghmode/)
 
-#### Programming Language Stack
+#### 🎨 Programming Language Stack
 <p align="left"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/a50fa57465e82a1147fa512fb3d64cc5902df578/icons/Python-Dark.svg" alt="python" title="python" width="60" height="60"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/a50fa57465e82a1147fa512fb3d64cc5902df578/icons/MySQL-Dark.svg" alt="SQL" title="SQL" width="60" height="60"/>
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/a50fa57465e82a1147fa512fb3d64cc5902df578/icons/TensorFlow-Dark.svg" alt="Tensorflow" title="Tensor Flow" width="60" height="60"/>
  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/a50fa57465e82a1147fa512fb3d64cc5902df578/icons/PyTorch-Dark.svg" alt="PyTorch" title="PyTorch" width="60" height="60"/>
@@ -16,7 +16,7 @@ Welcome to my portfolio! I am Pratik Waghmode, an aspiring data scientist and de
 
 
 
-## Projects
+## 🚀 Projects
 
 ### [Breast Cancer Classification with Machine Learning](https://github.com/Pratik-Waghmode/Breast_Cancer_Classification_Machine-Learning)
 * **Date**: August 2024
@@ -78,18 +78,17 @@ Welcome to my portfolio! I am Pratik Waghmode, an aspiring data scientist and de
     - Implemented player controls, scoring systems, and game logic using C#.
     - Created immersive environments and dynamic lighting effects to enhance the player experience.
 
-## Skills
+## 💡Skills
 
 - **Programming Languages**: Python, C#
 - **Data Science & Machine Learning**: Pandas, NumPy, Scikit-learn, TensorFlow, Keras, Matplotlib, Seaborn
 - **Tools & Technologies**: Google Colab, OpenCV, AWS Boto3, Unity
 - **Other**: Data Preprocessing, Model Evaluation, Feature Selection, Real-time Monitoring
 
-## Contact
+## 📬 Contact
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/shantanu-madiwale/) or reach out via email at shantanu.madiwale@example.com.
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/pratik-waghmode/) or reach out via email at pratikwaghmode1997@gmail.com
 
-## GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=madi82&show_icons=true)
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pratik-Waghmode&show_icons=true) </br>
 
