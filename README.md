@@ -4,7 +4,7 @@ Welcome to my portfolio! I am Pratik Waghmode, an aspiring data scientist and de
 
 [![linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratik-waghmode/)
 
-## 🎨 **Programming Language Stack**
+#### 🎨 **Programming Language Stack**
 <p align="left"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/a50fa57465e82a1147fa512fb3d64cc5902df578/icons/Python-Dark.svg" alt="python" title="python" width="60" height="60"/> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/a50fa57465e82a1147fa512fb3d64cc5902df578/icons/MySQL-Dark.svg" alt="SQL" title="SQL" width="60" height="60"/>
 <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/a50fa57465e82a1147fa512fb3d64cc5902df578/icons/TensorFlow-Dark.svg" alt="Tensorflow" title="Tensor Flow" width="60" height="60"/>
  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/a50fa57465e82a1147fa512fb3d64cc5902df578/icons/PyTorch-Dark.svg" alt="PyTorch" title="PyTorch" width="60" height="60"/>
@@ -16,9 +16,9 @@ Welcome to my portfolio! I am Pratik Waghmode, an aspiring data scientist and de
 
 
 
-## 🛠️ **Featured Projects**
+#### 🛠️ **Featured Projects**
 
-### [Breast Cancer Classification with Machine Learning](https://github.com/Pratik-Waghmode/Breast_Cancer_Classification_Machine-Learning)
+# [Project 1: Breast Cancer Classification with Machine Learning](https://github.com/Pratik-Waghmode/Breast_Cancer_Classification_Machine-Learning)
 * **📅 Date**: August 2024
 * **🛠️ Technologies**: Python, TensorFlow, Keras, scikit-learn, Google Colab, Matplotlib, Seaborn
 * **📋 Description**: Developed a classification model to diagnose breast cancer using advanced machine learning techniques.
@@ -36,7 +36,7 @@ Welcome to my portfolio! I am Pratik Waghmode, an aspiring data scientist and de
   <img src="https://github.com/user-attachments/assets/3b645ca0-7ebb-487d-9b3f-59bb34692683" width="350" height="350" alt="Breast Cancer Classification - Image 2"/>
 </p>
 
-### Intrusion Detection System with Exhaustive Feature Selection
+# Project 2: Intrusion Detection System with Exhaustive Feature Selection
 * **📅 Date**: January 2023
 * **🛠️ Technologies**: Python, scikit-learn, NSL-KDD CUP, UNSW-NB15
 * **📋 Description**: Built an Intrusion Detection System using feature selection and Least Square SVM for improved attack classification.
@@ -47,7 +47,7 @@ Welcome to my portfolio! I am Pratik Waghmode, an aspiring data scientist and de
     - Compared IDS models using precision, recall, F1-score, and ROC-AUC.
 
 
-### [Security System Using Image Processing](https://github.com/Pratik-Waghmode/Security-System-Using-Image-Processing)
+# [Project 3: Security System Using Image Processing](https://github.com/Pratik-Waghmode/Security-System-Using-Image-Processing)
 * **📅 Date**: August 2021
 * **🛠️ Technologies**: Python, OpenCV, Haar Cascade, AWS Boto3
 * **📋 Description**: Created a real-time security system utilizing image processing for enhanced threat detection.
@@ -64,7 +64,7 @@ Welcome to my portfolio! I am Pratik Waghmode, an aspiring data scientist and de
 
 
 
-### [3D Ball Game](https://github.com/Pratik-Waghmode/3D-Ball_Game)
+# [Project 4: 3D Ball Game](https://github.com/Pratik-Waghmode/3D-Ball_Game)
 * **Date**: September 2021
 * **Technologies**: Unity, C#, Unity API
 * **Description**: Designed a 3D ball game with Unity, incorporating physics-based mechanics and interactive gameplay.
@@ -75,14 +75,13 @@ Welcome to my portfolio! I am Pratik Waghmode, an aspiring data scientist and de
 
 ## 💡Skills
 
-- **Programming Languages**: Python, C#
+- **Programming Languages**: Python, C#, C, C++
 - **Data Science & Machine Learning**: Pandas, NumPy, Scikit-learn, TensorFlow, Keras, Matplotlib, Seaborn
-- **Tools & Technologies**: Google Colab, OpenCV, AWS Boto3, Unity
-- **Other**: Data Preprocessing, Model Evaluation, Feature Selection, Real-time Monitoring
+- **Tools & Technologies**: Google Colab, OpenCV, AWS Boto3, Unity 2D/3D, 
+- **Other**: Data Analytics, Data Preprocessing, Model Evaluation, Feature Selection, Real-time Monitoring.
 
 ## 📬 Contact
-
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/pratik-waghmode/) or reach out via email at pratikwaghmode1997@gmail.com
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/pratik-waghmode/) or drop me an email at pratikwaghmode1997@gmail.com. I look forward to connecting with you!
 
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Pratik-Waghmode&show_icons=true) </br>
