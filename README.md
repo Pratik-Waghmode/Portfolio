@@ -16,55 +16,50 @@ Welcome to my portfolio! I am Pratik Waghmode, an aspiring data scientist and de
 
 
 
-## 🚀 Projects
+## 🛠️ **Featured Projects**
 
 ### [Breast Cancer Classification with Machine Learning](https://github.com/Pratik-Waghmode/Breast_Cancer_Classification_Machine-Learning)
-* **Date**: August 2024
-* **Technologies**: Python, TensorFlow, Keras, scikit-learn, Google Colab, Matplotlib, Seaborn
-* **Description**: Developed a classification model to diagnose breast cancer using machine learning techniques.
-  * **Data Preprocessing**:
-    - Loaded and cleaned data using pandas.
-    - Handled missing values by dropping columns with all missing data.
-    - Encoded categorical labels using LabelEncoder.
-    - Applied MinMaxScaler to normalize feature values.
-  * **Model Development**:
-    - Built a deep learning model with TensorFlow and Keras, featuring a Sequential architecture with Dense and Dropout layers.
-    - Trained the model for 100 epochs with a batch size of 64, using binary crossentropy and adam optimizer.
-  * **Evaluation**:
-    - Analyzed training and validation performance with accuracy-loss curves.
-    - Evaluated model using confusion matrix and heatmap visualizations.
+* **📅 Date**: August 2024
+* **🛠️ Technologies**: Python, TensorFlow, Keras, scikit-learn, Google Colab, Matplotlib, Seaborn
+* **📋 Description**: Developed a classification model to diagnose breast cancer using advanced machine learning techniques.
+  * **🔍 Data Preprocessing**:
+    - Data cleaning and handling missing values.
+    - Label encoding and feature normalization.
+  * **🔧 Model Development**:
+    - Constructed a deep learning model with TensorFlow and Keras.
+    - Trained for 100 epochs with binary crossentropy loss.
+  * **📊 Evaluation**:
+    - Performance analysis with accuracy-loss curves and confusion matrix.
 
-<img src="https://github.com/user-attachments/assets/b46002a6-77f6-4953-a5a8-046fbb81a11f" width="350" height="350" alt="Image 1">
-<br>
-<img src="https://github.com/user-attachments/assets/3b645ca0-7ebb-487d-9b3f-59bb34692683" width="350" height="350" alt="Image 2">
-
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b46002a6-77f6-4953-a5a8-046fbb81a11f" width="350" height="350" alt="Breast Cancer Classification - Image 1"/>
+  <img src="https://github.com/user-attachments/assets/3b645ca0-7ebb-487d-9b3f-59bb34692683" width="350" height="350" alt="Breast Cancer Classification - Image 2"/>
+</p>
 
 ### Intrusion Detection System with Exhaustive Feature Selection
-* **Date**: January 2023
-* **Technologies**: Python, scikit-learn, NSL-KDD CUP, UNSW-NB15
-* **Description**: Created an Intrusion Detection System using feature selection and Least Square SVM for attack classification.
-  * **Research**:
-    - Investigated data quality's impact on IDS performance.
-  * **Implementation**:
-    - Applied feature selection and classification techniques.
-    - Compared performance with metrics like precision, recall, F1-score, and ROC-AUC.
-    - Addressed issues in existing IDS models for improved attack classification.
-
-### [Security System Using Image Processing](https://github.com/your-username/Security-System-Image-Processing)
-* **Date**: August 2021
-* **Technologies**: Python, OpenCV, Haar Cascade, AWS Boto3
-* **Description**: Developed a security system utilizing image processing for real-time threat detection.
-  * **System Features**:
-    - Used OpenCV and Haar Cascade for object detection and feature extraction.
-    - Integrated AWS Boto3 for cloud storage and remote access.
-    - Conducted optimization for enhanced accuracy and efficiency.
+* **📅 Date**: January 2023
+* **🛠️ Technologies**: Python, scikit-learn, NSL-KDD CUP, UNSW-NB15
+* **📋 Description**: Built an Intrusion Detection System using feature selection and Least Square SVM for improved attack classification.
+  * **🔍 Research**:
+    - Investigated the impact of data quality on IDS performance.
+  * **🔧 Implementation**:
+    - Employed feature selection and classification techniques.
+    - Compared IDS models using precision, recall, F1-score, and ROC-AUC.
 
 
+### [Security System Using Image Processing](https://github.com/Pratik-Waghmode/Security-System-Using-Image-Processing)
+* **📅 Date**: August 2021
+* **🛠️ Technologies**: Python, OpenCV, Haar Cascade, AWS Boto3
+* **📋 Description**: Created a real-time security system utilizing image processing for enhanced threat detection.
+  * **🔍 System Features**:
+    - Object detection with OpenCV and Haar Cascade.
+    - Integrated cloud storage with AWS Boto3 for remote access.
+    - Optimization for increased accuracy and efficiency.
 
-<img src="https://github.com/user-attachments/assets/b2cbf52b-6262-45bd-afcd-ab3cd78c0aaa" width="350" height="350" alt="Image 1"> <br>
-
-<img src="https://github.com/user-attachments/assets/6badfd74-8057-45eb-9f2a-9b008f3cb1c6" width="350" height="350" alt="Image 2">
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b2cbf52b-6262-45bd-afcd-ab3cd78c0aaa" width="350" height="350" alt="Security System - Image 1"/>
+  <img src="https://github.com/user-attachments/assets/6badfd74-8057-45eb-9f2a-9b008f3cb1c6" width="350" height="350" alt="Security System - Image 2"/>
+</p>
 
 
 
