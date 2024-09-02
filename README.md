@@ -64,7 +64,7 @@ Welcome to my portfolio! I am Pratik Waghmode, an aspiring data scientist and de
 
 
 
-### [3D Ball Game](https://github.com/your-username/3D-Ball-Game)
+### [3D Ball Game](https://github.com/Pratik-Waghmode/3D-Ball_Game)
 * **Date**: September 2021
 * **Technologies**: Unity, C#, Unity API
 * **Description**: Designed a 3D ball game with Unity, incorporating physics-based mechanics and interactive gameplay.
